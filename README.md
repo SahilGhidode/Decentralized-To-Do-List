@@ -22,5 +22,5 @@ To provide individuals and teams with a decentralized task management system tha
 - Upgradeable contract structure
 
 ## 📄 Contract Details
-_Contract details will be filled manually._
-
+0xE665E8680334f3e12D099265D06c667f82661cEA
+![image](https://github.com/user-attachments/assets/3677b787-b6c0-45d4-9462-a789b082ddd2)
